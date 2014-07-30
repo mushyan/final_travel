@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header .nav ul {}
+.header .nav ul li {float:left; background:url(../images/divider.png) no-repeat left bottom; line-height:32px;}
+.header .nav ul li:first-child {background:none; font-size: 14px; font-family: Segoe UI, Arial;}
+.header .nav ul li a {display:block; color:#898b8c; text-transform:uppercase; padding:0 20px;}
+.header .nav ul li a:hover, .header .nav ul li.active a {color:#0c3748;}
+
+.footer ul {}
+.footer ul li {font-size:11px; text-transform:uppercase; float:left; padding:0 10px;}
+.footer ul li a {color:#b5c0c6;}
+.footer ul li a:hover {}
+
+
+
+

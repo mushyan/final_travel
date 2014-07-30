@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header {width:100%; min-width:1024px; background:url(../images/header.jpg) repeat-x 0 0 #ebf0f3;}
+.banner {width:100%; min-width:1024px; background:url(../images/banner-bg.jpg) repeat-x 0 0 #006c97; height:458px;}
+.wrapper {width:985px; margin:-50px auto 0; background:url(../images/wrapper-bg.png) no-repeat 0 0; padding:16px 19px 0 0;}
+.content-left {width:676px; float:left;}
+.vacation-package {margin:0 0 10px;}
+.list1 {width:286px;}
+.list2 {width:100px;}
+.list3 {width:160px;}
+.sidebar {width:306px; float:right;}
+.footer {background:url(../images/footer.png) repeat-x 0 0 #005779; width:100%; min-width:1024px; padding:20px 0; margin:10px 0 0;}
+
+
