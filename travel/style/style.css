@@ -53,9 +53,9 @@ ul, ol, li {list-style:none;}
 										 margin:5px 0px 0px; cursor:pointer; margin-top:10px;}
 
 .content-left {width:676px; float:left;}
-.vacation-package {margin:0px 0px 10px;}
+.vacation-package {margin:0px 0px 5px;}
 .vacation-package .top {background:url(../images/wht-top.png) no-repeat; height:10px;}
-.vacation-package .main {background:url(../images/wht-bg.png) repeat-y; padding:0px 0px 5px 12px;}
+.vacation-package .main {background:url(../images/wht-bg.png) repeat-y; padding:0px 0px 5px 12px; height:226px;}
 .vacation-package .btm {background:url(../images/wht-btm.png) no-repeat; height:15px;}
 .vacation-package h2 {font-size:16px; text-transform:uppercase; padding:5px 0px 10px; font-weight:bold; color:#000; font-family:Segoe UI, "Trebuchet MS", Arial, Helvetica, sans-serif}
 .vacation-package ul.vacation-list {}
